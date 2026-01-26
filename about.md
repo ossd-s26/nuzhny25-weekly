@@ -4,9 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+My name is Aleks Nuzhnyi. I am a junior at NYU majoring in Computer Science and minoring in Math. 
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+My interesets include: weightlifting, outdoors, history of contemporary fashion and I enjoy watching movies. 
 
