@@ -22,6 +22,7 @@ Replace the first row with your own contribution.
 
 | Date #       | Contribution (Link)  | Type  | Description |
 |---|:---|:---|:---|
-| Feb 3   | link to my contribution    | course website    |   I fixed a broken link.    |
-|     |     |     |      |
-|     |     |     |      |
+| Jan 30   | [Ann Demeulemeester](https://en.wikipedia.org/wiki/Ann_Demeulemeester) | Wikipedia edit    |   I added a fact about her first collection    |
+|  Jan 31   |  [Hanae Mori](https://en.wikipedia.org/wiki/Hanae_Mori)  |  Wikipedia edit   |   Added a mention about her connection to Chanel   |
+|  Feb 1   |  [Jil Sander](https://en.wikipedia.org/wiki/Jil_Sander_(company))   |  Wikipedia edit   |   Added the fact that Sander was the first collaboration between luxury designer and a sports equipment brand   |
+|||||
