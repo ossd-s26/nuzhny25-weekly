@@ -27,4 +27,4 @@ Replace the first row with your own contribution.
 |  Feb 1   |  [Jil Sander](https://en.wikipedia.org/wiki/Jil_Sander_(company))   |  Wikipedia edit   |   Added the fact that Sander was the first collaboration between luxury designer and a sports equipment brand   |
 |Feb 15| [PR](https://github.com/joannakl/ossd/pull/151)| Course website| Updated a link for one of the readings to point to a website with open access|
 |Feb 23| [Issue](https://github.com/joannakl/ossd/issues/157)|Course website|Posted an issue with the course website|
-|Mar 1|[Geoffrey B. Small](https://en.wikipedia.org/wiki/Geoffrey_B._Small)|Wikipedia edit|Added some info about his material suppliers|
+|Mar 1|[Geoffrey B. Small](https://en.wikipedia.org/wiki/Geoffrey_B._Small)|Wikipedia edit|Added some info about his material suppliers| 
