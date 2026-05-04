@@ -29,4 +29,5 @@ Replace the first row with your own contribution.
 |Feb 23| [Issue](https://github.com/joannakl/ossd/issues/157)|Course website|Posted an issue with the course website|P
 |Mar 1|[Geoffrey B. Small](https://en.wikipedia.org/wiki/Geoffrey_B._Small)|Wikipedia edit|Added some info about his material suppliers| 
 |Mar 10|[Street contribution](https://www.openstreetmap.org/changeset/179667914)|OpenStreet Map feature|Added info about the area where I grew up in|
+|Apr 21|[Feature Proposal](https://github.com/persian-thunder/chartty/issues/8#issue-4305949263)|OpenSource Project|Proposed to add a feature to an Open Source [project](https://github.com/persian-thunder/chartty) and the maintainer responded that they would like it implemented! I will get to work on the feature when I am done with my Finals on May 8th|
 
